@@ -1,3 +1,3 @@
 class Demo{
-
+public
 }
